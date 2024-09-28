@@ -5,6 +5,7 @@ public class TimeComplexity {
     }
 
     //0(n) linear growth time: adding the sum of an array
+    // i = index
     public static int sumArray(int [] array) {
         int sum = 0;
         for(int i = 0; i < array.length; i++){
