@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c089cd19-5223-4ef4-9190-50c53237f305" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InitializingArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimeComplexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TraversingArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
